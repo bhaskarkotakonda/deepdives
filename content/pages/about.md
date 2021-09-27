@@ -18,3 +18,4 @@ Some of the blogs I take inspiration from for their writing style and topics -
 - [Less Wrong](https://www.lesswrong.com/)
 - [Tiger Feathers](https://tigerfeathers.substack.com/)
 - [High Scalability](http://highscalability.com/all-time-favorites/)
+- [Inverted Passion](https://invertedpassion.com/)
