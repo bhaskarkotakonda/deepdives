@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://deepdives.tech',
   pathPrefix: '/',
   title: 'Deep Dives',
-  subtitle: 'Exploring technology fundamentals using Feynman technique',
+  subtitle: 'Decomposition, Pattern Recognition, Abstraction and Algorithm Design',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Deep Dives',
     photo: '/photo.jpg',
-    bio: 'Exploring technology fundamentals using Feynman technique',
+    bio: 'Decomposition, Pattern Recognition, Abstraction and Algorithm Design',
     contacts: {
       email: '',
       facebook: '',
