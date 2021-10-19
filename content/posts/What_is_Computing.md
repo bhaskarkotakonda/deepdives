@@ -12,6 +12,7 @@ tags:
 description: "If you’re good with computers, if you’re good at basic mathematics, if you’re good at writing, if you’re good at speaking, and if you like reading, you’re set for life."
 socialImage: "/media/comp.jpeg"
 ---
+> The computer is the most powerful tool ever invented by humanity. In your pocket, you're carrying the single most powerful thing that all of humanity has ever invented ... Every little bit you can do to figure out how to use that better than you did before is going to give you enormous leverage. - *Naval Ravikanth*
 
 The history of computing is a history of building abstractions. 
 
