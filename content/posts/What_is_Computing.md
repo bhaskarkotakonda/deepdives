@@ -1,18 +1,20 @@
 ---
-title: What is a computer?
+title: What are computers and how do they work?
 date: "2021-10-19T21:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
+slug: ""
 category: "Computing"
 tags:
   - "Computing"
   - "Logic"
   - "History"
-description: "If you’re good with computers, if you’re good at basic mathematics, if you’re good at writing, if you’re good at speaking, and if you like reading, you’re set for life."
+  - "Architecture"
+description: "There is nothing in your life at a macroscopic level that has been co-ordinated with such finesse, on such a grand scale as the billions of transistors moving in sync inside a modern CPU chip, and to work with it correctly you need to understand how all it really comes down to, is controlled chaos."
 socialImage: "/media/comp.jpeg"
 ---
-> The computer is the most powerful tool ever invented by humanity. In your pocket, you're carrying the single most powerful thing that all of humanity has ever invented ... Every little bit you can do to figure out how to use that better than you did before is going to give you enormous leverage. - *Naval Ravikanth*
+
+Computers are magical machines that perform calculations by processing information through an input and returning output. 
 
 The history of computing is a history of building abstractions. 
 
