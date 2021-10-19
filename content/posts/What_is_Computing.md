@@ -6,9 +6,10 @@ draft: false
 slug: "perfecting-the-art-of-perfection"
 category: "Computing"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Computing"
+  - "Logic"
+  - "History"
+description: "If you’re good with computers, if you’re good at basic mathematics, if you’re good at writing, if you’re good at speaking, and if you like reading, you’re set for life."
 socialImage: "/media/comp.jpeg"
 ---
 
