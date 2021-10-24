@@ -29,7 +29,7 @@ socialImage: "/media/comp.jpeg"
 ## Tools, Machines and Computers
 The need for performing computations is an ancient one, right when early man figured that the world around him was far easy to understand using numbers. Till about the time of 1970s, computers could very well even mean human computers who sat down in research laboratories looking up multiplication, division and trigonomteric tables to compute advanced scientific computations. The film *Hidden Figures* is a wonderful depiction of the same. 
 
-![Source:Google](/media/hidden-figures.jpg)
+![Source:Google](/media/hidden_figures.jpg)
 
 ## So what exactly is a computer?
 Computers are powerful, flexible and magical machines that perform calculations by processing information through an input and returning output. At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. 
