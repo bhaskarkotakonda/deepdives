@@ -13,6 +13,9 @@ description: "There is nothing in the world at a macroscopic level that has been
 socialImage: "/media/comp.jpeg"
 ---
 
+- [Computing and Computers](#Computing-and-Computers)
+
+## Computing and Computers
 Computers are powerful, flexible and magical machines that perform calculations by processing information through an input and returning output. At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. 
 
 The history of computing is a history of building abstractions. 
