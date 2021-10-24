@@ -27,12 +27,16 @@ socialImage: "/media/comp.jpeg"
 
 
 ## Tools, Machines and Computers
-The need for performing computations is an ancient one, right when early man figured that the world around him was far easy to understand using numbers. Till about the time of 1970s, computers could very well even mean human computers who sat down in research laboratories looking up multiplication, division and trigonomteric tables to compute advanced scientific computations. The film *Hidden Figures* is a wonderful depiction of the same. 
+Right from time immemorial if there is one thing that stands true today as ever, it is this - Humans are driven by needs and desires. Technology has always been a result of these primal factors - right from early man who discovered the wheel and fire to present day scientists working on virtual reality. Every paradigm of change we observe, from the Agricultural Age to Industrial, Computational and Information Age of today can be understood as reinforcements in the social and technological advancements of those periods. If the Industrial Age sparred in unprecented technology improvements like steam engines, weapons and automobiles, the larger wisdom it gave to humankind was that we can *build machines that can do things for us*. 
 
-![Source:Google](/media/hidden_figures.jpg)
+In the course of the mid 20th century, we realized through a series of challenges and solutions that machines not only can *do* things for us but also *think* for us, *compute* for us to make our cognitive loads smaller. The need for performing computations is an ancient one, right when early man figured that the world around him was far easy to understand using numbers. Advancements in mathematics lead them to understand through the Agricultural age that quantifying things and phenomena offered *leverage* and *convenience*. Using these numbers to get different tasks like accountancy, engineering and business done was the story of the past few centuries.
+
+Till about the time of 1970s, computers could have very well even meant human computers who sat down in research laboratories looking up multiplication, division and trigonomteric tables to compute advanced scientific computations. The film *Hidden Figures* is a wonderful depiction of the same. So how did this definition of "computers" change from humans to present day **Internet of Things**?
 
 ## So what exactly is a computer?
-Computers are powerful, flexible and magical machines that perform calculations by processing information through an input and returning output. At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. 
+>Computers are powerful, flexible machines that perform calculations by processing information through an input and returning output.
+
+At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. Notice that the above definition could include a human, smart watch or a digital calculator as well.
 
 
 ## Evolution of Computers
