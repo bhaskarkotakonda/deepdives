@@ -36,7 +36,9 @@ Computers are powerful, flexible and magical machines that perform calculations 
 
 
 ## Evolution of Computers
-The history of adding value through technology is through leverage. 
+The history of adding value through technology is through leverage.
+
+## Computers as Universal Turing Machines
 
 ## Computing and Computers
 
