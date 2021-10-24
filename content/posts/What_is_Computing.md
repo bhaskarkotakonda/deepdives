@@ -31,7 +31,7 @@ The need for performing computations is an ancient one, right when early man fig
 
 ![Source:Google](/media/hidden-figures.jpg)
 
-## What exactly is a computer?
+## So what exactly is a computer?
 Computers are powerful, flexible and magical machines that perform calculations by processing information through an input and returning output. At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. 
 
 
