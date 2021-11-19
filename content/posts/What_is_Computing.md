@@ -1,5 +1,5 @@
 ---
-title: What are computers and how do they work?
+title: What exactly are computers?
 date: "2021-10-19T21:46:37.121Z"
 template: "post"
 draft: false
@@ -20,7 +20,6 @@ socialImage: "/media/comp.jpeg"
 - [Computers as Universal Turing Machines](#computers-as-universal-turing-machines)
 - [Computing and Computers](#computing-and-computers)
 - [Computing as a history of building Abstractions](#computing-as-a-history-of-building-abstractions)
-- [Personal Computers and Software](#personal-computers-and-software)
 - [Computers are like bicycle to the Mind](#computers-are-bicycles-to-the-mind)
 - [Sources](#sources)
 
@@ -51,18 +50,24 @@ The above design of a machine that can perform the above functions is treated as
 
 ## Computers and Computer Science
 
->Computing is to computers what geometry is to surveying instruments.
+>Computer Science is to computers what geometry is to surveying instruments.
 
-Computer Science is a terrible name for this business. It is not Science. It might be engineering or it might be art. It has a lot in common with magic. It is not also really about computers. It is not about computers in the same sense that physics is not really about particle accelerators and biology is not really about microscopes and petri dishes. Consider the word "geometry". It means to "measure Earth" or surveying. The name stuck because the Egyptian priesthood developed some of the rudiments of geometry so as to restore the fields after the annual flooding of the Nile. To them geometry was really the use of surveying instruments. The reason why we think computer science is about computers is the same reason why ancient Egyptians thought geometry was the use of surveying instruments. You see, when a field is just getting started it is easy to confuse the essence of what you are doing, with the tools that you use. We look back at the ancient Egyptian surveyors and say, gee what they were really doing is formalizing notions about space and time, to start talking about mathematical truths formally. This led to modern mathematics, which is a way to talk precisely about declarative knowledge:  i.e. what is true. Similarly people of the future will look back at us and say, yes those primitives in the 20th century were fiddling around with these gadgets called computers, but really what they were doing is starting to formalize intuitions about process, how to do things, starting to develop a way to talk precisely about how-to knowledge as opposed knowledge which talks about what is true. This is what computer science is about.
+Computer Science is actually not science in the truest sense of the word. It might be engineering or it might be art. It has a lot in common with magic. But it is not also really about computers. It is not about computers in the same sense that physics is not really about particle accelerators and biology is not really about microscopes. Consider the word "geometry". It means to "measure Earth" or surveying. The name stuck because the Egyptian priesthood developed some of the rudiments of geometry so as to restore the fields after the annual flooding of the Nile.The reason why we think computer science is about computers is the same reason why ancient Egyptians thought geometry was the use of surveying instruments. In a field that is just getting started it is easy to confuse the essence of what you are doing, with the tools that you use. We look back at the ancient Egyptian surveyors and say, gee what they were really doing is formalizing notions about space and time, to start talking about mathematical truths formally. This led to modern mathematics, which is a way to talk precisely about declarative knowledge:  i.e. what is true. Similarly people of the future will look back at us and say, yes those primitives in the 20th century were fiddling around with these gadgets called computers, but really what they were doing is starting to formalize intuitions about process, how to do things, starting to develop a way to talk precisely about how-to knowledge as opposed knowledge which talks about what is true. This is what computer science is about.
 
 Computer Science is probably more closer to the phenomenon of mathematical logic and computational processes as opposed to electronics and the whole paradgim of "computers as machines". Later developments in algorithms and programming languages veered in the "machine" direction a little more, but it's a long time before many of the readers of Turing's work on computability would see themselves as mainly continuing the progress of early 19th century electrical engineers who built the first computers.
 
 ## Computers as a history of building Abstractions
 
->The history of computers is a history of building abstracitons
-## Personal Computers and Software
+>The history of computing is a history of building abstracitons
+
+As and when the 
 
 ## Computers are like bicycle to the Mind
+
+>If it can be imagined it can be built
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L40B08nWoMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sources
 🎥 [Crash Course Computer Science](https://youtu.be/tpIctyqH29Q)<br>
