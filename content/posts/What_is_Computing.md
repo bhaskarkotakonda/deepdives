@@ -9,7 +9,7 @@ tags:
   - "Basics"
   - "Logic"
   - "History"
-description: "There is nothing in the world at a macroscopic level that has been co-ordinated with such finesse, on such a grand scale as the billions of transistors moving in sync inside a modern CPU chip, and to work with it correctly you need to understand that how all it really comes down to, is controlled chaos."
+description: "There is nothing in the world at a macroscopic level that has been co-ordinated with such finesse, on such a grand scale as the billions of transistors moving in sync inside a modern CPU chip, and to work with it correctly you need to understand how all that it really comes down to really, is controlled chaos."
 socialImage: "/media/comp.jpeg"
 ---
 
