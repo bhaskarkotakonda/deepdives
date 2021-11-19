@@ -58,14 +58,19 @@ Computer Science is probably more closer to the phenomenon of mathematical logic
 
 ## Computers as a history of building Abstractions
 
->The history of computing is a history of building abstracitons
+>The history of computing is a history of building abstractions
 
-As and when the 
+Consider the hierarchy of organization from the atoms to electricity, transisitors, logic gates, ICs and Assembly. At each level we have managed to package the previous layer into a black box that does *predictable reliable work* for us. This is indeed the underlying theory behind all of software and computer design. 
+
+![CPU Block Diagram](/media/cpu.jpg)
+
+In terms of the hardware, the entirety of the processing and memory units are actually parts of the IC, which are in turn made of logic gates designed using NAND gates. The NAND is the fundamental building block of the entire hardware of the computer. The next layer is the BIOS/firmware part which is essentially the interactive Assembly between OS and the hardware - think interacing for mouse clicks and printouts. This is mostly burnt into the main chip by the hardware manufacturers and acts to decouple software and hardware. Next come the device drivers and OS. The operating system layer is relatively new. The initial personal computers required hackers to program their own set of instructions onto the CPU - so every person who needed the computer to work had to write their own requirements - word editors, calculators, document viewers etc. One can only imagine what a herculean waste of time that could have been! This was when the idea of abstracting core functions of programs was invented and the OS was born with a core set of functionalities everyone would require. Then came the programming languages and the various applications that could be made on top of them ushering in a new civilization of social, cultural and economic changes. Post the personal PC revolution, it is now clear that the computers have reached a level of abstraction where they have become tools. 
 
 ## Computers are like bicycle to the Mind
 
 >If it can be imagined it can be built
 
+I think when people say, "Imagination is the only limitation" they are usually referring to the nature of computer as a universal turing machine. You can make a computer do whatever you want it to do as long as you are able to break down the problems into tiny chunks of sub problems involving bits and operations on them. In essence, we bring in the creativity and problem solving and the computer can take that cumbersome repetitive task and do it over and over again with exact precision and speed. Notice here the eery similarity to how a tool or machine works in the same way. Being able to enhance the way our minds function will be a key turning point, leading to a staggering snowball effect, where smarter minds are able to enhance themselves further, in a dizzying spiral of increasing intelligence. Whether this is indeed the case or whether the invention of computer has to be likened to the invention of the wheel is still upto debate but it indisputable that computers are in the business of democratizing ideas or in the least enabling them to existence.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L40B08nWoMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
