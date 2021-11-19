@@ -17,10 +17,9 @@ socialImage: "/media/comp.jpeg"
 
 - [Tools, Machines and Computers](#tools-,-machines-and-computers)
 - [So what exactly is a computer?](#what-exactly-is-a-computer-?)
-- [Evolution of Computers](#evolution-of-computers)
 - [Computers as Universal Turing Machines](#computers-as-universal-turing-machines)
-- [Computing and Computers](#computing-and-computers)
 - [Computing as a history of building Abstractions](#computing-as-a-history-of-building-abstractions)
+- [Computing and Computers](#computing-and-computers)
 - [Personal Computers and Software](#personal-computers-and-software)
 - [Computers are like bicycle to the Mind](#computers-are-bicycles-to-the-mind)
 - [Sources](#sources)
@@ -36,17 +35,24 @@ Till about the time of 1970s, computers could have very well even meant human co
 ## So what exactly is a computer?
 >Computers are powerful, flexible machines that perform calculations by processing information through an input and returning output.
 
-At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. Notice that the above definition could include a human, smart watch or a digital calculator as well.
+At it's core it is just a device with processor and memory - the rest of the details about design (mechanical, electrical, optical or quantum) are optional. As long as the phenomenon of storage(either as a combinaiton of specific phycial properties of materials and electrons, or complex probabilistic quantum theories) and processing (basic operations like retrieval, loading onto storage and arithmetic operations) are met enabling us to perform other complex tasks through above operations, it can be deemed to be a computer. Notice that the above definition could include a human, smart watch or a digital calculator as well.
 
-
-## Evolution of Computers
-The history of adding value through technology is through leverage.
+So does that also make a digital watch a computer? Yes and No. The important point to note here is that the digital watch is not entirely **programmable** ie. it is not a machine that allows us to perform more than one kind of computation by itself. Contrast this with the run of the mill personal desktops that can open excels sheets, play music, edit photos, browse the internet etc. Some of the latest smart watches however might offer you this feature of rewiring in which case it would qualify to our model of a computer.  A much better explanation on this front awaits in the next section on UTM.
 
 ## Computers as Universal Turing Machines
 
+**The Universal Turing Machine** is a machine that can simulate any other machine described via symbols. Turing wanted to show that, in principle, such a "computer" can exist. He devised amchine that could read symbols off an extremely long tape and modify these symbols based on what it reads. Once the computation is complete, it should also be able to halt. So at any time, the state of the UTM should depend only on two pieces of information: (1) the symbol currently being read, and (2) the machine's current "internal configuration" or "state." Based on its internal state and the symbol currently being read, the machine should (1) write a new symbol in the current square, (2) move backwards or forwards one square, and (3) switch to a new state or halt. Finally, since we want this machine to be physically realizable, the number of possible internal states should be finite. These are the only requirements.
+
+The above design of a machine that can perform the above functions is treated as a "computer" even to this day. Specifcally, the electronic device in which you are reading this now is the Von Neumann implementation of the above design scheme itself. A Turing machine defines (as far as we know) what physically-achievable computers are *able to do*. That is, as far as we know, any computer we build (whether using classical physics, quantum mechanics, or something else), can at most solve exactly the problems a Turing machine can and no others.
+
+![utm.jpg](/media/utm.jpg)
+
+## Computers as a history of building Abstractions
+
 ## Computing and Computers
 
-## Computing as a history of building Abstractions
+Chemical reactions can be thought of as computations. Given the same inputs, the reactions produce the same answer. 
+Computer Science is probably more closer to the phenomenon of mathematical logic and compuitational processes as opposed to electronics and the whole paradgim of "computers as machines". Later developments in algorithms and programming languages veered in the "machine" direction a little more, but it's a long time before many of the readers of Turing's work on computability would see themselves as mainly continuing the progress of early 19th century electrical engineers who built the first computers.
 
 ## Personal Computers and Software
 
